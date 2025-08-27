@@ -1,0 +1,40 @@
+  h2{
+            text-align: center;
+        }
+        .about{
+            
+            justify-items: center;
+        }
+        #profile{
+            
+            margin:10% 45%;
+          
+
+        }
+        #photo{
+         
+           border-style: circle;
+           justify-items: center;
+           margin-left: 50%;
+
+        }
+        .fig{
+            background-color: burlywood;
+            display:block;
+        }
+        img{
+              width: 150px; 
+      height: 150px;
+      border-radius:25%; 
+      object-fit: cover;
+      rotate: 100deg;
+
+        }
+        .personal{
+            font-family:'Times New Roman', Times, serif;
+                    }
+@keyframes{
+    @20ded{
+        border-radius:25%
+    }
+}
